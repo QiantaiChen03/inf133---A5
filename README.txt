@@ -31,4 +31,17 @@
     We did not consult with anyone as part of this assignment
 
 5. Is there anything special we need to know in order to run your code?
-    No, there is nothing special need to know to run our code.
+    We are trying to implemented a web app that use the gestures to decide how each picture display on the page,
+    for example if a close hand detected then the image will have a particular animation to pop up this photo.
+    The final version should have a photo gallery which will display each photo at a time,
+    and base on the gestures, the web app will automatically display the next photo in the gallery
+    with the special animation. In addition, the photo gallery is more like a carousel.
+    Unfortunately, we didn't get the time to fully implemented this function for each of the gestures that we have.
+    So the current version will just display a image without the animation.
+    The gestures that we have right now are as follows:
+        Two open hands
+        Closed hand
+        Two closed hand
+        Pointing
+        Pimching
+        And two custom gestures: "One open One close" and "One open one pointing"
