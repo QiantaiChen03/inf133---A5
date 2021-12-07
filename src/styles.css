@@ -73,3 +73,7 @@
   .carousel-button.next {
     right: 1rem;
   }
+
+  * {
+    font-family: 'Source Sans Pro', sans-serif;
+    }

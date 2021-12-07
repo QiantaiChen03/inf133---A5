@@ -4,4 +4,10 @@
     border-color: #0063FF;
     width: 200px;
     height: 200px;
+    display: block;
+    margin: 0 auto;
 }
+
+.text-center {
+    text-align: center;
+  }

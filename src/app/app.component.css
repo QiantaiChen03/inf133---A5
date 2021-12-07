@@ -1,0 +1,5 @@
+.image{
+    height:60em; background-size:cover; width:auto;
+    background-image:url('https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-position:50% 50%;
+  }
